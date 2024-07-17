@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cordwivag.github.io/sitemap
+Sitemap: https://cordwivag.github.io/app/sitemap
+Sitemap: https://cordwivag.github.io/assets/sitemap
+Sitemap: https://cordwivag.github.io/css/sitemap
+Sitemap: https://cordwivag.github.io/includes/sitemap
+Sitemap: https://cordwivag.github.io/item/sitemap
+Sitemap: https://cordwivag.github.io/src/sitemap
